@@ -1,5 +1,5 @@
 {
-    "name": "create_package_example",
+    "name": "pingus.bullet.editor",
     "rootNamespace": "",
     "references": [],
     "includePlatforms": [],

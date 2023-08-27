@@ -2,9 +2,6 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-/// <summary>
-/// Makes the bullet move and destroy itself when colliding with objects of specific tags.
-/// </summary>
 public class Bullet : MonoBehaviour
 {
     [Header("References")]
