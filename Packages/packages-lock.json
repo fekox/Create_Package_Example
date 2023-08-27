@@ -1,5 +1,11 @@
 {
   "dependencies": {
+    "com.pingus.create_package_example": {
+      "version": "file:BulletPackageExample",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {}
+    },
     "com.unity.collab-proxy": {
       "version": "2.0.5",
       "depth": 0,
